@@ -1,0 +1,23 @@
+{
+  "folders": [
+		{
+			"path": "../../../../coinscrap/coinscrap-fes"
+		},
+		{
+			"path": "../../../../coinscrap/coinscrap-ss"
+		},
+		{
+			"path": "../../../../coinscrap/coinscrap-ps"
+		},
+		{
+			"path": "../../../../coinscrap/coinscrap-service-splits"
+		},
+		{
+			"path": "../../../../coinscrap/coinscrap-webapp-split"
+		},
+		{
+			"path": "."
+		}
+	],
+  "settings": {}
+}
